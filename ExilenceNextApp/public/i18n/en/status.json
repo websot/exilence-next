@@ -1,15 +1,15 @@
 {
   "message": {
-    "initializing_session": "Initializing session",
-    "fetching_stash_tabs": "Fetching stash tabs for {{param}}",
-    "creating_default_profile": "Creating default profile: {{param}}",
-    "fetching_characters": "Fetching characters",
-    "validating_session": "Validating session",
-    "fetching_stash_tab": "Fetching stash tab",
-    "fetching_subtabs": "Fetching special tabs",
-    "pricing_items": "Pricing items",
-    "saving_snapshot": "Saving snapshot",
-    "refreshing_stash_tabs": "Refreshing stash tabs",
-    "fetching_prices": "Fetching new prices"
+    "initializing_session": "Инициализация сеанса",
+    "fetching_stash_tabs": "Получение вкладок тайника для {{param}}",
+    "creating_default_profile": "Создание профиля по умолчанию: {{param}}",
+    "fetching_characters": "Получение персонажей",
+    "validating_session": "Проверка сессии",
+    "fetching_stash_tab": "Получение вкладки тайника",
+    "fetching_subtabs": "Получение спец.вкладок",
+    "pricing_items": "Цены на предметы",
+    "saving_snapshot": "Сохранение снимка",
+    "refreshing_stash_tabs": "Обночление вкладок тайника",
+    "fetching_prices": "Получение новых цен"
   }
 }
